@@ -32,6 +32,7 @@ namespace areaapp1.Controllers
                 }
                 return View();
             }
+            string eifc = "eiwnip4pv";
             return View();
         }
     }
